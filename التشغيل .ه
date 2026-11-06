@@ -1,0 +1,8 @@
+
+C:\laragon\www
+λ cd project-app
+
+C:\laragon\www\project-app
+λ php artisan serve
+
+
